@@ -33,4 +33,5 @@ Supporting data-driven decision-making</br></br>
 Building business-focused dashboards
 Writing optimized DAX measures
 Applying time intelligence functions effectively
-Designing clear and meaningful data visualizations
+Designing clear and meaningful data visualizations</br></br>
+📚 Demo</br>
