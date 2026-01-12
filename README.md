@@ -30,9 +30,9 @@ Identifying growth or decline trends across years
 Understanding product performance and return behavior
 Supporting data-driven decision-making</br></br>
 📚 Key Learnings</br>
-https://github.com/chanmyaayee/Sales-Dashboard/blob/main/Market.png
 Building business-focused dashboards
 Writing optimized DAX measures
 Applying time intelligence functions effectively
 Designing clear and meaningful data visualizations</br></br>
 📚 Demo</br>
+https://github.com/chanmyaayee/Sales-Dashboard/blob/main/Market.png
